@@ -1,0 +1,3 @@
+https://es.stackoverflow.com/questions/309124/c-error-is-a-pointer-did-you-mean-to-use
+https://stackoverflow.com/questions/36217352/unknown-type-name-error-in-c
+https://stackoverflow.com/questions/60064157/error-incompatible-type-for-argument-1-of-push
